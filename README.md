@@ -1,2 +1,2 @@
-# INST314--6
+# INST314-6
 Project 6
